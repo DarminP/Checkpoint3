@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/checkpont3/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/checkpont3/static/js/main.5b2217a8.chunk.js",
+    "main.js.map": "/checkpont3/static/js/main.5b2217a8.chunk.js.map",
+    "runtime-main.js": "/checkpont3/static/js/runtime-main.766e0d91.js",
+    "runtime-main.js.map": "/checkpont3/static/js/runtime-main.766e0d91.js.map",
+    "static/js/2.233d4bcd.chunk.js": "/checkpont3/static/js/2.233d4bcd.chunk.js",
+    "static/js/2.233d4bcd.chunk.js.map": "/checkpont3/static/js/2.233d4bcd.chunk.js.map",
+    "static/js/3.4ce09d66.chunk.js": "/checkpont3/static/js/3.4ce09d66.chunk.js",
+    "static/js/3.4ce09d66.chunk.js.map": "/checkpont3/static/js/3.4ce09d66.chunk.js.map",
+    "index.html": "/checkpont3/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/checkpont3/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.233d4bcd.chunk.js.LICENSE.txt": "/checkpont3/static/js/2.233d4bcd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/checkpont3/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.766e0d91.js",
+    "static/js/2.233d4bcd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5b2217a8.chunk.js"
+  ]
+}
